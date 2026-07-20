@@ -1,0 +1,8 @@
+print('\033[30m OLA') # CINZA
+print('\033[31m OLA') # VERMELHO
+print('\033[32m OLA') # VERDE
+print('\033[33m OLA') # AMARELO
+print('\033[34m OLA') # AZUL ESCURO
+print('\033[35m OLA') # ROSA
+print('\033[36m OLA') # AZUL CLARO
+print('\033[37m OLA') # BRANCO (DEFAULT)

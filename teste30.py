@@ -1,0 +1,6 @@
+num = int(input('Digite um numero qualquer: '))
+if num % 2 == 0:
+    print('O numero {} é Par '.format(num))
+else:
+    print('O numero {} é Impar '.format(num))
+    

@@ -1,0 +1,5 @@
+a = int(input('Digite o primeiro valor: '))
+b = int(input('Digite o segundo valor: '))
+c = int(input('Digite o terceiro valor: '))
+print(f'O menor numero digitado é',min(a, b, c))
+print(f'O maior numero digitado é',max(a, b, c))
