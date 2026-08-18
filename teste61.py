@@ -1,0 +1,9 @@
+termo1 = int(input('Primeiro Termo: '))
+razao = int(input('Razão: '))
+numero = termo1
+c = 1
+while c <= 10:
+    print('{} → '.format(termo1), end='')
+    termo1 += razao
+    c += 1
+print('FIM', end='')
